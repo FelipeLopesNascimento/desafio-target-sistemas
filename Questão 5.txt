@@ -1,0 +1,8 @@
+Primeira ida: Ligue o primeiro interruptor e espere alguns minutos.
+Segunda ida: Desligue o primeiro interruptor e ligue o segundo.
+Verificação: Ao entrar na sala com as lâmpadas:
+Lâmpada acesa:
+Se a lâmpada estiver quente, o primeiro interruptor a controla.
+Se a lâmpada estiver fria, o segundo interruptor a controla.
+Lâmpada apagada: O terceiro interruptor a controla.
+Explicação: Ao deixar o primeiro interruptor ligado por alguns minutos, a lâmpada correspondente ficará quente. Se a lâmpada estiver acesa na segunda ida, você saberá qual interruptor a controla pela temperatura. Se estiver apagada, o terceiro interruptor é o responsável.

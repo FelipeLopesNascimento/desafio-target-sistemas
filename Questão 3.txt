@@ -1,0 +1,1 @@
+O valor final de SOMA será a soma de todos os números de 1 até 11, ou seja, 66.

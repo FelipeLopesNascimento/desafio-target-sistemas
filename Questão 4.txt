@@ -1,0 +1,6 @@
+a) Sequência de números ímpares: 9
+b) Sequência de potências de 2: 128
+c) Sequência de quadrados perfeitos: 49
+d) Sequência de quadrados de números pares: 100
+e) Sequência de Fibonacci: 13
+f) Não há uma lógica aparente para essa sequência. Pode haver um erro ou informação faltando.
